@@ -17,7 +17,7 @@ Your program should include the following:
     * No need for a visual hangman at this point (add visuals as a challenge)
 * A way to reveal the correctly guessed letters in a word 
 * A "you win" message + a "game over" message 
-* Randomly select a word from a (short) list of words 
+* Randomly select a secret word from a (short) list of words 
 
 ## Challenges: 
 * Words of different lengths 
