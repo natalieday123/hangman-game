@@ -1,6 +1,7 @@
 # Hangman
 ### Advanced Topics Project #1
-![hangman] (https://upload.wikimedia.org/wikipedia/commons/f/f4/Hangman_game.jpg)
+![hangman](https://github.com/mbigman/hangman-game/Hangman_game.jpg)
+
 ## Overview
 Your goal for this project is to create a playable version of the game Hangman on the command line. You can work in groups of up to two people. For this project, you will need to use all of the concepts we have learned so far: variables, input, loops, conditional and methods. Additionally, you might fight other concepts that we have not yet covered to be useful. If that is the case, look them up to familiarize yourself and ask Mr. Bigman for a mini lesson. 
 
